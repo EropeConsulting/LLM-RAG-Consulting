@@ -1,7 +1,7 @@
 # LLM-RAG-Consulting
 LLM-RAG-Consulting
 실습 참조 책과 Git URL :
-수강생분들은 실습 오류나는 부분들은 다시한번 git 코드를 참조하여 수정해보시면 좋을 듯 합니다
+실습 오류나는 부분들은 다시한번 git 코드를 참조하여 수정해보시면 좋을 듯 합니다
 
 https://github.com/chatgpt-kr/chatgpt-api-tutorial
 
@@ -35,8 +35,6 @@ Visual Studio Code (https://code.visualstudio.com/)
 openai 패키지를 설치하면 될 것으로 보입니다.
 
 그리고 이미지 파일은 확장자가 .png 가 아닌 대문자.PNG 로 수정해줘야 한다고 합니다.
-
-수강생 여러분들께 실습이 원활하지 못했던 점 죄송하게 생각합니다.
 
 관심 있으신 분들은 실습에 참조한 책을 보셔서 오류난 부분을 수정하여 실습을 마무리해보시는 것을 추천 드립니다.
 
